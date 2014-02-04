@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ErlangLauncherTest.iml" filepath="$PROJECT_DIR$/ErlangLauncherTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/erlanglauncher/erlanglauncher.iml" filepath="$PROJECT_DIR$/erlanglauncher/erlanglauncher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erlanglauncher/erlanglauncher-erlanglauncher.iml" filepath="$PROJECT_DIR$/erlanglauncher/erlanglauncher-erlanglauncher.iml" />
     </modules>
   </component>
 </project>
